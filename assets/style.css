@@ -12,6 +12,7 @@
 header{
     padding-top: 30px;
     padding-left: 200px;
+    background-color: rgb(247, 246, 255, 1)
 
 }
 .tynavbar{
@@ -36,16 +37,23 @@ header{
 .btns{
     display: flex;
     gap:40px;
-    margin-left: 150px;
+    margin-left:50px;
     
 }
 .first{
+    height: 40px;
   color:green;
   padding:10px 30px 10px 30px;
   border-radius:10px;
-  background-color: rgba(242, 240, 254, 1);
-  -webkit-border-radius:10px;
-  -moz-border-radius:10px;
-  -ms-border-radius:10px;
-  -o-border-radius:10px;
+  border:20px;
+  background-coloR:rgba(242, 240, 254, 1);
+
+}
+.scnd{
+    height: 40px;
+    color:white;
+  padding:10px 30px 10px 30px;
+  border-radius:10px;
+  border:10px;
+  background-coloR:rgba(29, 191, 115, 1);
 }
