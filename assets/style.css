@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&family=Nunito:wght@800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+*{
+    box-sizing: border-box;
+    font-family: "Roboto";
+}
+.container
+{
+    max-width: 1440px;
+}
+header{
+    padding-top: 30px;
+    padding-left: 200px;
+
+}
+.tynavbar{
+    display: flex;
+    gap:20px;
+   
+}
+.texts{
+    display: flex;
+    gap:40px;
+    margin-top:-5px;
+    margin-left: 50px;
+}
+.textsitem
+{
+    font-weight: 500;
+    font-size: 16px;
+    color:rgba(0, 0, 0, 1);
+    font-family: "Montserrat";
+}
+
+.btns{
+    display: flex;
+    gap:40px;
+    margin-left: 150px;
+    
+}
+.first{
+  color:green;
+  padding:10px 30px 10px 30px;
+  border-radius:10px;
+  background-color: rgba(242, 240, 254, 1);
+  -webkit-border-radius:10px;
+  -moz-border-radius:10px;
+  -ms-border-radius:10px;
+  -o-border-radius:10px;
+}
