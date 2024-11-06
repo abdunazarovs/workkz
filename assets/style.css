@@ -6,12 +6,12 @@
     font-family: "Roboto";
 }
 .container
-{
+{     
     max-width: 1440px;
 }
 header{
     padding-top: 30px;
-    padding-left:100px;
+    padding-left:140px;
     padding-bottom: 20px;
     background-color: rgb(247, 246, 255, 1)
 
@@ -58,3 +58,126 @@ header{
   border:10px;
   background-coloR:rgba(29, 191, 115, 1);
 }
+
+
+#intro{
+ 
+       margin-top: 250px;
+   margin-left:30PX;
+    font-family:"Montserrat";
+ 
+    gap: 50px;
+}
+.introtitle{
+   
+  
+    margin:100px;
+    width: 600px;
+    line-height: 43.88px;
+    gap: 15px;
+ h2{
+color: #1DBF73;
+font-weight: 700;
+font-size: 36px;
+margin-left:25px;
+letter-spacing: 5%;
+margin-top: -65px;
+gap: 50px;
+}
+}
+.introtext{
+    font-family: "Montserrat";
+    font-weight: 400;
+    font-size: 25px;
+   margin-left: 100px;
+    width: 533px;
+    height: 48px;
+    margin-top:40px; 
+}
+.akaxon{
+    margin-left:770px;
+    margin-top:-400px;
+}
+.introl{
+    background-color: #F2F0FE;
+    padding: 10px 30px 10px 30px;
+    border-radius: 30px;
+    -webkit-border-radius:30px;
+    -moz-border-radius:20px;
+    -ms-border-radius:20px;
+    -o-border-radius:20px;
+    width: 532px;
+    height: 60px;
+    margin-top: -150px;
+    margin-left: 90px;
+    color: #656084;
+    font-weight: 300;
+    font-family: "Montserrat";
+
+}
+.introtexts{
+    h4{
+        font-size: 15px;
+        color: #656084;
+        font-family: "Montserrat";
+        font-weight: 500;
+        margin-top: 10px;
+    }
+
+}
+.introtexts1 {
+    h4{
+        background-color: #FBA457;
+border-radius: 45px;
+font-family: "Montserrat";
+font-size: 15px;
+font-weight: 300;
+color: #F6FAFD;
+width: 154px;
+height: 60px;
+margin-top: -60px;
+margin-left: 350px;
+border-radius: 30px 30px 30px 30px;
+border: 3px 3px 3px 3px;
+text-align: center,bottom;
+
+    }
+
+}
+.introtexts1 {
+    p{
+        margin-left: 400px;
+        margin-top: -60px;
+        font-family: "Montserrat";
+        font-weight: 700;
+        font-size: 16px;
+        color: #F6FAFD;
+    }
+  
+}
+
+
+
+#cards{
+    margin-top: 180px;
+    margin-left:120px;
+}
+.tepatitle{
+    font-weight: 600;
+    font-size: 24px;
+    color:rgba(34, 34, 34, 1);
+    font-family: "Montserrat";
+}
+
+.first1
+{
+     margin-top:60px;
+    background-color:rgb(217,217,217);
+   display: block;
+   width: 400px;
+   height: 100px;
+}
+.info1{
+    display: flex;
+}
+
