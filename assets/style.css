@@ -847,6 +847,7 @@ display: block;
 .cardsi3{
     display: block;
     margin-top: 80px;
+
 }
 .pastgicard{
     display: flex;
@@ -955,10 +956,7 @@ display: block;
    padding-bottom: 20px;
    border-radius:50px;
    border-style:hidden;
-   5text-align: center;
-   color:#fff;
-   -webkit-border-radius:50px;
-   -moz-border-radius:50px;
-   -ms-border-radius:50px;
-   -o-border-radius:50px;
+   text-align: center;
+   color:#ffff;
+   
 }
